@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>141235249248-p3fbo84tor0mas9e870ir8mta8m5v6ba.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.141235249248-p3fbo84tor0mas9e870ir8mta8m5v6ba</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC6SI8VgJawJhTam0ewv0HI2UmA7NxANwA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>141235249248</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.ashwith.bagit</string>
+	<key>PROJECT_ID</key>
+	<string>bagit-a1271</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bagit-a1271.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:141235249248:ios:3925ff757f0a41a8fba305</string>
+	<key>DATABASE_URL</key>
+	<string>https://bagit-a1271.firebaseio.com</string>
+</dict>
+</plist>
