@@ -7,6 +7,7 @@ import {
   Image,
   Text,
   Dimensions,
+  StatusBar,
 } from 'react-native';
 
 import SafeAreaView from 'react-native-safe-area-view';
@@ -50,6 +51,7 @@ export default ({actions, getHomeItems}: Props) => {
 
   return (
     <ListItemContext.Provider value={{modal, setModal, activeValue}}>
+      <StatusBar translucent backgroundColor="rgba(0,0,0,0.05)" />
       <SafeAreaView
         forceInset={{top: 'always', bottom: 'never'}}
         style={styles.container}>
@@ -82,6 +84,7 @@ export default ({actions, getHomeItems}: Props) => {
                 backgroundColor: Colors.PRIMARY,
               },
               style: {
+                elevation: 0,
                 backgroundColor: 'white',
                 marginTop: Spacing.SCALE_8,
               },
